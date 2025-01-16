@@ -2,15 +2,14 @@
 
 [![kli001](https://img.shields.io/badge/kli001-github-blue?logo=github)](https://github.com/kli001)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Master's Degree in Data Science, at infomation school, University of Sheffield, China.
 
 #### Email
 sli[at]cumt.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Education and Work Experience
+M.E., Data Science, University of Sheffield, 2024—2025 (expected).\
+PwC Auditor, 2020 - 2024\
+M.E., Accoutning and finance, Manchester University, 2019—2020.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
